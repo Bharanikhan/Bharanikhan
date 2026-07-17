@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Bharani 👋</h1>
+<h1 align="center">Im  Bharani Vishal K 👋</h1>
 
-<h3 align="center">Data Engineer | Power BI & Fabric Certified | Turning Raw Data into Decisions 📊</h3>
+<h3 align="center">Data Engineer | Databricks Data Engineer & Microsoft Fabric Certified | Turning Raw Data into Decisions 📊</h3>
 
 ---
 
@@ -10,7 +10,7 @@
 - 📈 Currently working as a **Power BI Analyst**, with a strong pull toward end-to-end **Data Engineering**
 - ☁️ Building hands-on experience with **Azure Data Factory, Microsoft Fabric, and Databricks Lakehouse architecture**
 - 🧠 I enjoy taking messy datasets and turning them into structured, queryable, trustworthy pipelines
-- 🎯 Actively exploring Data Engineer / Analytics Engineer roles in Bangalore, Chennai, and Hyderabad
+- 🎯 Actively exploring Data Engineering in depth.
 
 ---
 
@@ -52,7 +52,7 @@
 - 🔄 Building and orchestrating **ETL/ELT pipelines** (batch & incremental loads)
 - 🏞️ Designing **Data Lakehouse** architectures (Bronze/Silver/Gold layers) on Databricks
 - 🏭 Pipeline orchestration with **Azure Data Factory** and **Microsoft Fabric Data Pipelines**
-- 🧮 Data modeling: star schema, SCD types, dimensional modeling
+- 🧮 Data modelling: star schema, SCD types, dimensional modelling
 - ✅ Data quality, validation, and pipeline monitoring
 - 📦 Working with structured & semi-structured data (SQL, JSON, Parquet, CSV)
 
@@ -65,6 +65,3 @@
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=Bharanikhan&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
