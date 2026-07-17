@@ -10,7 +10,7 @@
 - 📈 Currently working as a **Power BI Analyst**, with a strong pull toward end-to-end **Data Engineering**
 - ☁️ Hands-on with **Azure Data Factory, Azure Data Lake, Databricks, and Microsoft Fabric**
 - 🧠 I enjoy taking messy datasets and turning them into structured, queryable, trustworthy pipelines
-- 🎯 **Databricks Data Engineer** and ** Microsoft Fabric ** Certified.
+- 🎯 **Databricks Data Engineer** and **Microsoft Fabric** Certified.
 
 ---
 
