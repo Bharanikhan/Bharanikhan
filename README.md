@@ -51,29 +51,24 @@
 
 ---
 
-### ⚙️ Key Responsibilities & Focus Areas
+### ⚙️  Focus Areas
 
 **Pipeline Engineering**
 - 🔄 Design, build, and optimize scalable data pipelines using **Databricks** (batch & streaming)
 - 🐍 Develop data processing frameworks using **PySpark / Spark SQL**
-- 🔌 Ingest data from multiple sources — APIs, Kafka, cloud storage, and databases
+- 🔌 Ingest data from multiple sources — APIs, cloud storage, and databases
 
 **Lakehouse Architecture**
 - 🏞️ Implement **Delta Lake**-based storage ensuring ACID compliance and reliability
-- 🥉🥈🥇 Develop and maintain **medallion architecture** (Bronze, Silver, Gold) data layers
+- 🥉🥈🥇 Develop and maintain **medallion architecture**  data layers
 - 🧮 Build data models for analytics and reporting use cases
 
 **Performance Optimization**
-- ⚡ Tune Spark jobs for performance — partitioning, caching, cluster sizing
+- ⚡ Tune Spark jobs for performance partitioning, caching, cluster sizing
 - ✅ Implement data quality checks, validation, and pipeline monitoring
-- 📦 Optimize storage formats (Parquet, Delta) for query performance
 
----
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Bharanikhan&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Bharanikhan&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Bharanikhan&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 
