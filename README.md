@@ -1,4 +1,4 @@
-<h1 align="center"> Bharani Vishal K </h1>
+<h1 align="center"> --||  Bharani Vishal K  || --</h1>
 
 <h3 align="center">Data Engineer | Databricks Data Engineer & Microsoft Fabric Certified | Turning Raw Data into Decisions 📊</h3>
 
@@ -6,7 +6,7 @@
 
 ### 🔧 About Me
 
-- 🏗️ I work with data pipelines, ETL/ELT workflows, and analytics engineering — from raw ingestion to clean, decision-ready dashboards
+- 🏗️ I work with data pipelines, ETL/ELT workflows, and analytics engineering from raw ingestion to clean, decision-ready dashboards
 - 📈 Currently working as a **Power BI Analyst**, with a strong pull toward end-to-end **Data Engineering**
 - ☁️ Building hands-on experience with **Azure Data Factory, Microsoft Fabric, and Databricks Lakehouse architecture**
 - 🧠 I enjoy taking messy datasets and turning them into structured, queryable, trustworthy pipelines
