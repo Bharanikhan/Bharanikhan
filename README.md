@@ -1,16 +1,16 @@
-<h1 align="center"> --||  Bharani Vishal K  || --</h1>
+<h1 align="center">--||  Bharani Vishal K  || --</h1>
 
-<h3 align="center">Data Engineer | Databricks Data Engineer & Microsoft Fabric Certified | Turning Raw Data into Decisions 📊</h3>
+<h3 align="center">Data Engineer | Azure & Databricks | PySpark | Turning Raw Data into Decisions 📊</h3>
 
 ---
 
 ### 🔧 About Me
 
-- 🏗️ I work with data pipelines, ETL/ELT workflows, and analytics engineering from raw ingestion to clean, decision-ready dashboards
+- 🏗️ I build scalable data pipelines and lakehouse architectures using **PySpark, Databricks, and Azure**
 - 📈 Currently working as a **Power BI Analyst**, with a strong pull toward end-to-end **Data Engineering**
-- ☁️ Building hands-on experience with **Azure Data Factory, Microsoft Fabric, and Databricks Lakehouse architecture**
+- ☁️ Hands-on with **Azure Data Factory, Azure Data Lake, Databricks, and Microsoft Fabric**
 - 🧠 I enjoy taking messy datasets and turning them into structured, queryable, trustworthy pipelines
-- 🎯 Actively exploring Data Engineering in depth.
+- 🎯 **Databricks Data Engineer** and ** Microsoft Fabric ** Certified.
 
 ---
 
@@ -29,9 +29,13 @@
 
 # 💻 Tech Stack:
 
-**Cloud & Data Engineering**
+**⭐ Core: PySpark & Databricks**
 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&logo=databricks&logoColor=white)
+
+**☁️ Azure Cloud**
+
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Azure Data Lake](https://img.shields.io/badge/Azure_Data_Lake-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Azure Synapse Analytics](https://img.shields.io/badge/Azure_Synapse_Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 **Databases & Storage**
 
@@ -39,7 +43,7 @@
 
 **BI, Analytics & Languages**
 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 **Tools**
 
@@ -47,14 +51,22 @@
 
 ---
 
-### ⚙️ Data Engineering Focus Areas
+### ⚙️ Key Responsibilities & Focus Areas
 
-- 🔄 Building and orchestrating **ETL/ELT pipelines** (batch & incremental loads)
-- 🏞️ Designing **Data Lakehouse** architectures (Bronze/Silver/Gold layers) on Databricks
-- 🏭 Pipeline orchestration with **Azure Data Factory** and **Microsoft Fabric Data Pipelines**
-- 🧮 Data modelling: star schema, SCD types, dimensional modelling
-- ✅ Data quality, validation, and pipeline monitoring
-- 📦 Working with structured & semi-structured data (SQL, JSON, Parquet, CSV)
+**Pipeline Engineering**
+- 🔄 Design, build, and optimize scalable data pipelines using **Databricks** (batch & streaming)
+- 🐍 Develop data processing frameworks using **PySpark / Spark SQL**
+- 🔌 Ingest data from multiple sources — APIs, Kafka, cloud storage, and databases
+
+**Lakehouse Architecture**
+- 🏞️ Implement **Delta Lake**-based storage ensuring ACID compliance and reliability
+- 🥉🥈🥇 Develop and maintain **medallion architecture** (Bronze, Silver, Gold) data layers
+- 🧮 Build data models for analytics and reporting use cases
+
+**Performance Optimization**
+- ⚡ Tune Spark jobs for performance — partitioning, caching, cluster sizing
+- ✅ Implement data quality checks, validation, and pipeline monitoring
+- 📦 Optimize storage formats (Parquet, Delta) for query performance
 
 ---
 
@@ -65,3 +77,5 @@
 
 ---
 
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
