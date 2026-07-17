@@ -68,6 +68,16 @@
 - ✅ Implement data quality checks, validation, and pipeline monitoring
 
 
+**Power BI & Analytics** *(current role)*
+- 📊 Build Power BI Desktop reports, KPI scorecards, and dashboards; write DAX; model data with Power Query and advanced data connectivity; monitor report performance and refresh health, and partner with stakeholders on data infrastructure needs to drive operational insights.
+
+---
+
+### 📄 Publication
+
+**"Optimizing Skin Cancer Prediction: An Efficient Deep Learning Approach"**
+Published in *Nonlinear Complex Systems, Computational Intelligence and Their Applications* (ICNCS 2024), Springer Proceedings in Mathematics & Statistics, vol. 529 — Springer, Singapore (2026).
+📌 [DOI: 10.1007/978-981-95-5891-9_32](https://doi.org/10.1007/978-981-95-5891-9_32)
 
 
 ---
