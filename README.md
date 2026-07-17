@@ -1,6 +1,6 @@
 <h1 align="center">--||  Bharani Vishal K  || --</h1>
 
-<h3 align="center">Data Engineer | Azure & Databricks | PySpark | Turning Raw Data into Decisions 📊</h3>
+<h3 align="center">Data Engineer | Azure & Databricks |Fabric| Turning Raw Data into Decisions 📊</h3>
 
 ---
 
